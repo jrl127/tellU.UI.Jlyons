@@ -2,11 +2,8 @@
   box-sizing: border-box;
 }
 body {
-
-	<img src="file:///Users/jacquelineyons/Desktop/tellU_logo_transparent%20copy.jpg" alt="logo" style="width:50%">
-
+   <img src="file:///Users/jacquelineyons/Desktop/tellU_logo_transparent%20copy.jpg" alt="logo" style="width:50%">
 }
-
 {
   font-size: 14px;
 }
