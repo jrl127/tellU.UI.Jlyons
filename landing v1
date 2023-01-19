@@ -1,0 +1,128 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Spicy+Rice&display=swap" rel="stylesheet" /></head><body><div class="v1_3"><span class="v1_5">Social networking for UC & CSU students </span><div class="v2_2"></div><div class="v2_3"></div><div class="v2_4"></div><div class="v2_5"></div><span class="v2_6">Login</span><span class="v2_7">Register</span><div class="v1_4"></div></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+
+	<img src="file:///Users/jacquelineyons/Desktop/tellU_logo_transparent%20copy.jpg" alt="logo" style="width:50%">
+
+}
+
+{
+  font-size: 14px;
+}
+.v1_3 {
+  width: 390px;
+  height: 844px;
+  background: rgba(97,219,251,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_5 {
+  width: 320px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 435px;
+  left: 40px;
+  font-family: Spicy Rice;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_2 {
+  width: 264px;
+  height: 72px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 559px;
+  left: 61px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+  overflow: hidden;
+}
+.v2_3 {
+  width: 264px;
+  height: 72px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 680px;
+  left: 61px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+  overflow: hidden;
+}
+.v2_4 {
+  width: 259px;
+  height: 63px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 559px;
+  left: 61px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+  overflow: hidden;
+}
+.v2_5 {
+  width: 259px;
+  height: 63px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 680px;
+  left: 61px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+  overflow: hidden;
+}
+.v2_6 {
+  width: 42px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 578px;
+  left: 169px;
+  font-family: Spicy Rice;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_7 {
+  width: 67px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 699px;
+  left: 161px;
+  font-family: Spicy Rice;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_4 {
+  width: 222px;
+  height: 200px;
+  background: url("../images/v1_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 186px;
+  left: 84px;
+  overflow: hidden;
+}
+</style>
